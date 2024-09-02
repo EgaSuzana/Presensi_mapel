@@ -109,12 +109,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c62GiV0se3MOXO3mXCwZ" name="Page-3">
-    <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fuB5v5xAsUhCN4RqB4Wd-12" value="Guru" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="140" height="90" as="geometry" />
+          <mxGeometry x="30" y="-190" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fuB5v5xAsUhCN4RqB4Wd-13" value="id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="fuB5v5xAsUhCN4RqB4Wd-12">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -123,10 +123,10 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fuB5v5xAsUhCN4RqB4Wd-18" value="Create()&lt;div&gt;update()&lt;/div&gt;&lt;div&gt;Delete()&lt;/div&gt;&lt;div&gt;tampilkan()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="170" width="140" height="60" as="geometry" />
+          <mxGeometry x="30" y="-100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fuB5v5xAsUhCN4RqB4Wd-19" value="Rekapitulasi Kelas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="140" height="330" as="geometry" />
+          <mxGeometry x="260" y="-190" width="140" height="330" as="geometry" />
         </mxCell>
         <mxCell id="fuB5v5xAsUhCN4RqB4Wd-20" value="id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="fuB5v5xAsUhCN4RqB4Wd-19">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -159,10 +159,10 @@
           <mxGeometry y="300" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fuB5v5xAsUhCN4RqB4Wd-31" value="Tampilkan()&lt;div&gt;Cari kelas()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="410" width="140" height="30" as="geometry" />
+          <mxGeometry x="260" y="140" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fuB5v5xAsUhCN4RqB4Wd-32" value="Rekapitulasi Izin Siswa" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="140" height="300" as="geometry" />
+          <mxGeometry x="700" y="-200" width="140" height="300" as="geometry" />
         </mxCell>
         <mxCell id="fuB5v5xAsUhCN4RqB4Wd-33" value="id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="fuB5v5xAsUhCN4RqB4Wd-32">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -192,10 +192,10 @@
           <mxGeometry y="270" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fuB5v5xAsUhCN4RqB4Wd-43" value="Tampilkan()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="140" height="30" as="geometry" />
+          <mxGeometry x="700" y="100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VjFPtNdxGcwaj4qy2exD-1" value="Rekapitulasi Izin Tamu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="140" height="210" as="geometry" />
+          <mxGeometry x="700" y="140" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VjFPtNdxGcwaj4qy2exD-2" value="id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="VjFPtNdxGcwaj4qy2exD-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -216,10 +216,10 @@
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VjFPtNdxGcwaj4qy2exD-10" value="Tampilkan()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="140" height="30" as="geometry" />
+          <mxGeometry x="700" y="350" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VjFPtNdxGcwaj4qy2exD-15" value="Keperluan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="250" width="140" height="90" as="geometry" />
+          <mxGeometry x="470" y="-190" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VjFPtNdxGcwaj4qy2exD-16" value="id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="VjFPtNdxGcwaj4qy2exD-15">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -228,16 +228,19 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VjFPtNdxGcwaj4qy2exD-18" value="Tampilkan()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="340" width="140" height="30" as="geometry" />
+          <mxGeometry x="470" y="-100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VjFPtNdxGcwaj4qy2exD-19" value="Keanggotaan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="390" width="140" height="90" as="geometry" />
+          <mxGeometry x="470" y="-50" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VjFPtNdxGcwaj4qy2exD-20" value="id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="VjFPtNdxGcwaj4qy2exD-19">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VjFPtNdxGcwaj4qy2exD-21" value="Nama:char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="VjFPtNdxGcwaj4qy2exD-19">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VjFPtNdxGcwaj4qy2exD-22" value="Tampilkan()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
