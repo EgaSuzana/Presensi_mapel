@@ -272,6 +272,9 @@
             <mxPoint x="640" y="-665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VjFPtNdxGcwaj4qy2exD-35" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 29px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CLASS DIAGRAM&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-870" width="275" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
